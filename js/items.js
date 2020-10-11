@@ -580,6 +580,7 @@ var items = {
     "name": "<span class='purple'>Hackmanite Pickaxe</span>",
     "lore": [
       "<span class='gray'>Эффективность VI</span>",
+      "<span class='gray'>Прочность I</span>",
       "<span class='gold'><b>Organica UHC</b></span>",
       "",
       "<span class='gray'>Когда во ведущей руке:</span>",
@@ -603,7 +604,8 @@ var items = {
   "organica:aventurine_pickaxe": {
     "name": "<span class='dark_aqua'>Aventurine Pickaxe</span>",
     "lore": [
-      "<span class='gray'>Прочность V</span>",
+      "<span class='gray'>Эффективность II</span>",
+      "<span class='gray'>Прочность III</span>",
       "<span class='gold'><b>Organica UHC</b></span>",
       "",
       "<span class='gray'>Когда во ведущей руке:</span>",
