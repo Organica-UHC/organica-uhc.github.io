@@ -394,7 +394,7 @@ var items = {
       "<span class='blue'>+5 Сопротивление отбрасыванию</span>",
       "<span class='blue'>+8 Броня</span>"
     ],
-    "image": "./img/items/organica.iron_shield.png"
+    "image": "./img/items/organica.hackmanite_shield.png"
   },
   "minecraft:lapiz_block": {
     "name": "<span class='white'>Блок лазурита</span>",
@@ -417,7 +417,7 @@ var items = {
       "<span class='blue'>+0.5 Урон</span>",
       "<span class='blue'>+9 Броня</span>"
     ],
-    "image": "./img/items/organica.iron_shield.png"
+    "image": "./img/items/organica.aventurine_shield.png"
   },
   "minecraft:gold_block": {
     "name": "<span class='white'>Золотой блок</span>",
