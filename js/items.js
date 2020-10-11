@@ -571,7 +571,8 @@ var items = {
       "",
       "<span class='gray'>Когда во ведущей руке:</span>",
       "<span class='green'>&nbsp;2 Урон</span>",
-      "<span class='green'>&nbsp;1.2 Скорость атаки</span>"
+      "<span class='green'>&nbsp;1.2 Скорость атаки</span>",
+      "<span class='blue'>Неразрушаемый</span>"
     ],
     "image": "./img/items/organica.citrine_pickaxe.png"
   },
